@@ -22,3 +22,5 @@ const PriceCard = ({price}) => {
 };
 
 export default PriceCard;
+
+
